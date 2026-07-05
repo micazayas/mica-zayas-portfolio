@@ -330,13 +330,13 @@
       return;
     }
     console.log(
-      '%c MICA ZAYAS %c colour · code · design ',
+      '%c MICA ZAYAS✌️ %c colour · code · design 🌈 ',
       'background:#005a6c;color:#fef8f2;font-weight:bold;padding:6px 10px;border-radius:6px 0 0 6px;font-family:sans-serif;',
       'background:#ff3167;color:#fef8f2;font-weight:bold;padding:6px 10px;border-radius:0 6px 6px 0;font-family:sans-serif;'
     );
     console.log(
-      '%cSitio hecho a mano, colores a tu elección. 👀',
-      'color:#ff3167;font-family:sans-serif;font-size:12px;'
+      '%cHand-coded site, tailored colors.',
+      'color:#fffff;font-family:sans-serif;font-size:12px;'
     );
   }
 
